@@ -1,0 +1,3 @@
+:schedule:
+  FetchOrdersJob:
+    cron: '0 * * * * *' # Runs when second = 0
